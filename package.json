@@ -1,0 +1,16 @@
+{
+  "name": "array-deluxe",
+  "version": "1.0.0",
+  "description": "Function programming superpowers for your arrays",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudsm/array-deluxe.git"
+  },
+  "author": "arnaudsm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaudsm/array-deluxe/issues"
+  },
+  "homepage": "https://github.com/arnaudsm/array-deluxe#readme"
+}
