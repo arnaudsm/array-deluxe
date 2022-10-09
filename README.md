@@ -1,5 +1,5 @@
 # Array-Deluxe 🦸‍♂️
-Function programming superpowers for your arrays
+Superpowers for your JavaScript arrays
 ```js
 import 'array-deluxe'
 
