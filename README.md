@@ -1,6 +1,12 @@
 # Array-Deluxe 🦸‍♂️
 Function programming superpowers for your arrays
 
+```js
+import 'array-deluxe'
+// OR
+require('array-deluxe')
+```
+
 ## Number functions
 ```js
 const list = [1,1,3]
