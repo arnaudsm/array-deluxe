@@ -20,7 +20,7 @@ require('array-deluxe')
 const list = [1,1,3]
 list.max()     // 3
 list.min()     // 1
-list.sum()     // 6
+list.sum()     // 5
 list.median()  // 1
 list.mean()    // 2.5
 list.unique()  // [1,3]
