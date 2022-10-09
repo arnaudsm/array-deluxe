@@ -1,6 +1,6 @@
 {
   "name": "array-deluxe",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Function programming superpowers for your arrays",
   "main": "index.js",
   "repository": {
