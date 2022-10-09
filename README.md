@@ -1,6 +1,14 @@
 # Array-Deluxe 🦸‍♂️
 Function programming superpowers for your arrays
+```js
+import 'array-deluxe'
 
+[1,2,3].map(x => x+1).unique().shuffle().mean()
+```
+
+# Usage
+
+## Import
 ```js
 import 'array-deluxe'
 // OR
